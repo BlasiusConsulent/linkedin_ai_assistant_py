@@ -1,0 +1,48 @@
+{
+    "ollama": {
+        "base_url": "http://localhost:11434",
+        "model": "llama3.2:latest",
+        "timeout": 300
+    },
+    "news_sources": [
+        "https://feeds.feedburner.com/TheHackersNews",
+        "https://www.bleepingcomputer.com/feed/",
+        "https://krebsonsecurity.com/feed/"
+    ],
+    "keywords": [
+        "cybersecurity",
+        "AI",
+        "IT",
+        "job",
+        "recruiter",
+        "Campania",
+        "Napoli",
+        "Salerno"
+    ],
+    "alerts": {
+        "enabled": true,
+        "check_interval_minutes": 30,
+        "sound_enabled": true,
+        "desktop_notification": true
+    },
+    "linkedin": {
+        "post_frequency_days": 3,
+        "auto_generate": true,
+        "max_post_length": 2600,
+        "hashtags_count": 10
+    },
+    "user_profile": {
+        "name": "Biagio Apostolico",
+        "role": "Senior ICT Consultant",
+        "location": "Campania, Italia",
+        "email": "b.apostolico@libero.it",
+        "experience_years": 10,
+        "certifications_count": 35,
+        "specializations": [
+            "CyberSecurity",
+            "Infrastructure",
+            "AI",
+            "HelpDesk L3"
+        ]
+    }
+}
