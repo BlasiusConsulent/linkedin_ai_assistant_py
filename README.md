@@ -327,21 +327,6 @@ IL SOFTWARE È FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O
 
 ---
 
-## 🤝 Autore e Contatti
-
-Sviluppato con standard di eccellenza professionale da:
-
-### **Biagio Apostolico**
-*Senior ICT Consultant | CyberSecurity & AI Specialist*
-
-| Contatto | Dettaglio |
-| :--- | :--- |
-| **📍 Location** | Campania, Italia |
-| **📧 Email** | b.apostolico@libero.it |
-| **💼 LinkedIn** | [Profilo LinkedIn](https://www.linkedin.com/in/biagio-apostolico/) |
-
----
-
 ## 🐛 Troubleshooting
 
 | Problema | Soluzione |
